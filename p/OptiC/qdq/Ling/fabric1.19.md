@@ -1,0 +1,3 @@
+# 获取 优化核心
+
+> 点击[此处](https://github.com/SIRT43/Optimization-Core/releases/download/1.19-fabric/Optimization-Core-1.19-fabric-beta-v0.0.2.2.zip)继续

@@ -1,0 +1,3 @@
+# 获取 优化核心
+
+> 点击[此处](https://github.com/SIRT43/Optimization-Core/releases/download/1.18.2-fabric/Optimization-Core-1.18.2-fabric-v2.2.5.zip)继续
