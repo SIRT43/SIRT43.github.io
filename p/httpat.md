@@ -2,7 +2,9 @@
 
 > 站内获取
 
-- 点击[这里](OptiC/ver2.md)
+- 原版 点击[这里](OptiC/ver2.md)
+
+- 重制版 点击[这里](OptiC/remake/platform.md)
 
 > GitHub 地址
 
