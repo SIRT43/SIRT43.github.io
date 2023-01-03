@@ -12,7 +12,9 @@
 
 > 蓝奏云 地址
 
-- 点击[这里](https://wwt.lanzoub.com/b0318d9ni) 提取码:bflo  
+- 原版 点击[这里](https://wwt.lanzoub.com/b0318d9ni) 提取码:bflo  
+
+- 重制版 点击[这里](https://wwrm.lanzoub.com/b031t43ri) 提取码:3fm0
 
 ⠀  
 
