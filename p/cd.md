@@ -8,9 +8,8 @@
 ⠀优化核心 主要面向低中配 Minecraft-java 并且还在努力适应 PC 环境  
 ⠀(优化核心系列 目前使用 boat 进行测试 无法真正适应 PC环境)  
 ⠀  
-*⠀优化核心 与 [高清修复](https://www.optifine.net/home) 性能对比[视频](https://www.bilibili.com/video/BV1sV4y147Ka?spm_id_from=333.999.0.0)*
-
-*该 视频 变量控制不严谨 仅用于参考*
+* 优化核心 与 [高清修复](https://www.optifine.net/home) 性能对比[视频](https://www.bilibili.com/video/BV1sV4y147Ka?spm_id_from=333.999.0.0)*  
+* 该 视频 变量控制不严谨 仅用于参考*
 
 > 关于使用 优化核心 制作 整合包 或 二创
 

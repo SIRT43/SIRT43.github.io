@@ -8,7 +8,9 @@
 
 > GitHub 地址
 
-- 点击[这里](https://github.com/SIRT43/Optimization-Core/releases)
+- 原版 点击[这里](https://github.com/SIRT43/Optimization-Core/releases)
+
+- 重制版 点击[这里](https://github.com/SIRT43/REmk_Optimization-Core/releases)
 
 > 蓝奏云 地址
 
