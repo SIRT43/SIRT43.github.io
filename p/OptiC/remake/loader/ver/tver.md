@@ -17,3 +17,5 @@
 - [1.19 fabric](1.19.md)
 
 - [1.19.2 fabric](1.19.2.md)
+
+- [alpha1.19.3 fabric](1.19.3.md)

@@ -18,6 +18,8 @@
 
 - [1.19.2 fabric](1.19.2.md)
 
+- [alpha1.19.3 fabric](1.19.3.md)
+
 *<p align="center">若选择时出现非 pc 启动器 名</p>*
 
 *<p align="center">请选择 Ling 后若无效选择 HMCLPE</p>*
