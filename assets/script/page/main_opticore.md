@@ -30,7 +30,7 @@
 
 > 关于 更新日志
 
-*如果你需要查看 更新日志 请点击[这里](document/update/index.md)*
+*如果你需要查看 更新日志 请点击[这里](document/update/logs/index.md)*
 
 <br />
 
