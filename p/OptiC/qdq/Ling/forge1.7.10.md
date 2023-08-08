@@ -1,3 +1,0 @@
-# 获取 优化核心
-
-> 点击[此处](https://github.com/SIRT43/Optimization-Core/releases/download/1.7.10-forge/Optimization-Core-1.7.10-forge-demo.zip)继续
