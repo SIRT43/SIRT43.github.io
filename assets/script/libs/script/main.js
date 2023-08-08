@@ -72,7 +72,7 @@
           });
 
           if (isMain) {
-            mainTitle = '正在访问';
+            mainTitle = '未知';
             $('title').text(function (x, old) {
               return old + ' - ' + mainTitle;
             });
