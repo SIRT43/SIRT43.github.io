@@ -72,7 +72,7 @@
           });
 
           if (isMain) {
-            mainTitle = $el.find('h1:first').text();
+            mainTitle = '其他页面';
             $('title').text(function (x, old) {
               return mainTitle + ' - ' + old;
             });
