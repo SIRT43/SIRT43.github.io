@@ -4,7 +4,7 @@
 */
 
 (function () {
-  var pageBase = 'assets/script/page';
+  var pageBase = 'assets/script/page/';
   var pageExt = 'md';
   var mainPage = location.search.slice(1).replace(/&.*/, '') || 'main_content';
   var mainTitle = '';
