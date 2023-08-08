@@ -1,1 +1,12 @@
-
+## 关于获取
+<br />
+> 获取方式
+<br />
+- 站内未开放<!--[获取](download/inDownload.md)-->
+*访问不稳定 可能无法下载*
+- 站外[获取](download/outDownload.md)
+*部分访问稳定 可能速度较慢*
+<br />
+> 贡献者
+<br />
+- [yu_ma_a](https://space.bilibili.com/1957264012)
