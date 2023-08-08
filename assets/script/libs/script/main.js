@@ -72,9 +72,9 @@
           });
 
           if (isMain) {
-            mainTitle = '其他页面';
+            mainTitle = '正在访问';
             $('title').text(function (x, old) {
-              return mainTitle + ' - ' + old;
+              return old + ' - ' + mainTitle;
             });
           }
 
