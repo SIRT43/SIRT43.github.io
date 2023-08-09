@@ -4,7 +4,7 @@
 
 > 获取方式
 
-- 站内获取未开放<!--[获取](download/inDownload.md)-->
+- 站内[获取](download/inDownload.md)
 
 *访问不稳定 可能无法下载*
 
