@@ -20,6 +20,8 @@
 
 - [1.19.2 fabric](1.19.2.md)
 
-- [1.19.3 alpha fabric](1.19.3_warning_01.md)
+- [1.19.3 alpha fabric](1.19.3_warning_02.md)
 
 - [1.20.0 alpha_01a](1.20.0_warning_02.md)
+
+*<p align="center">您已选择承担风险</p>*
