@@ -4,10 +4,10 @@
 
 > 选择您的 启动器
 
-- [澪-Pro](Ling/index_01.md)
+- [澪-Pro](epilogue/index_01.md)
 
-- [澪-Ultimate](Ling/index_01.md)
+- [澪-Ultimate](epilogue/index_01.md)
 
-- [HMCLPE](HMCLPE/index.md)
+- [HMCLPE](epilogue/index_01.md)
 
-- [其他](Ling/index_01.md)
+- [其他](epilogue/index_01.md)
