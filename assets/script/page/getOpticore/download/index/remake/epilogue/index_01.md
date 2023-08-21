@@ -22,4 +22,10 @@
 
 - [1.19.3 alpha fabric](1.19.3_warning_01.md)
 
-- [1.20.0 alpha_01a](1.20.0_warning_02.md)
+- [1.19.4 alpha fabric](1.19.4_warning_01.md)
+
+- [1.20.0 alpha_01a fabric](1.20.0_warning_01.md)
+
+- [1.20.1 alpha_01a fabric](1.20.1_warning_01.md)
+
+- [1.20.1 alpha_01a fabric radical](1.20.1_radical_warning_02.md)
